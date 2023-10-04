@@ -3,8 +3,8 @@ int main()
 {
 	char str[10];
 	char str2[10];
-	int i=0;
-	int flag=1;
+	int i=0; 
+	int flag=1; 
 	
 	printf("Enter the new  password: ");
 	scanf("%s",str);
